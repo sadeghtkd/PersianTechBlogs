@@ -1,7 +1,7 @@
-# PersianTechBlogs
+# Persian Tech Companies Blogs
 بلاگ فنی شرکت های تکنولوژی فارسی (ایران)
 
-لیست آدرس وبلاگ فنی شرکت ها##   :
+لیست آدرس وبلاگ فنی شرکت ها## 
  
 [بلاگ فنی دیوار https://tech.divar.ir/](https://tech.divar.ir/)
 
